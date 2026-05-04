@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ProjRoot\HaskellProj\CBindFakeInput\CBindFakeInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\ProjRoot\HaskellProj\CBindFakeInput\CBindFakeInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ProjRoot\HaskellProj\CBindFakeInput\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8A2C0CEA-82F4-3C4D-8382-FBDB34B35EA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A65D968F-DE17-3401-B45D-446D0177E174}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

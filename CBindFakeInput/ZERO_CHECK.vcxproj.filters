@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\ProjRoot\HaskellProj\CBindFakeInput\CMakeFiles\30092211205f29de7e2980e7f5056e50\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2ED10F4-B62F-3D29-BA12-B5990F951065}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

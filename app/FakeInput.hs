@@ -11,7 +11,7 @@ import Foreign
 import Foreign.C.Types
 import qualified Graphics.UI.GLFW as G
 
--- #include "../../CBindFakeInput/CBindFakeInput.h"
+-- #include "../CBindFakeInput/CBindFakeInput.h"
 
 newtype Key = Key {getKey::Int}
 data CKey

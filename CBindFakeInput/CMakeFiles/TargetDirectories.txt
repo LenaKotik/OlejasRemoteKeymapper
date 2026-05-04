@@ -1,0 +1,3 @@
+C:/ProjRoot/HaskellProj/CBindFakeInput/CMakeFiles/CFakeInput.dir
+C:/ProjRoot/HaskellProj/CBindFakeInput/CMakeFiles/ALL_BUILD.dir
+C:/ProjRoot/HaskellProj/CBindFakeInput/CMakeFiles/ZERO_CHECK.dir
